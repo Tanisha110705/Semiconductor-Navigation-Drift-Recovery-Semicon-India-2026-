@@ -29,7 +29,7 @@ The algorithm implements scale compensation followed by multi-scale normalized c
 ---
 
 
-## 🚀 Quickstart Guide
+## Quickstart Guide
 
 ### Step 1: Environment Setup
 
