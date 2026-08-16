@@ -116,7 +116,7 @@ Normalized Cross-Correlation (NCC) is performed over a scale range of approximat
 
 This allows the algorithm to compensate for **stage scaling drift** and variations in the physical imaging scale.
 
-### 3. Multi-Channel Spectral Fusion — RGB Bonus
+### 3. Multi-Channel Spectral Fusion 
 
 For 3-channel optical images, normalized cross-correlation is independently performed on the:
 
