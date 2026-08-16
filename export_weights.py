@@ -1,4 +1,5 @@
 ##Run this script once locally to generate your model.onnx weight file:
+
 import torch
 import torch.nn as nn
 
@@ -34,7 +35,7 @@ def main():
         output_names=['output'],
         dynamic_axes={'input': {2: 'height', 3: 'width'}, 'output': {2: 'height', 3: 'width'}}
     )
-    print("✅ Model weights exported to 'model.onnx'")
+    print("Model weights exported to 'model.onnx'")
 
 if __name__ == "__main__":
     main()
