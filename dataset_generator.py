@@ -1,8 +1,4 @@
----
-
-## 🐍 Item 2: `dataset_generator.py`
-
-```python
+## dataset_generator.py
 import argparse
 import csv
 import os
